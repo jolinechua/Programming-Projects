@@ -1,4 +1,4 @@
-# **Data Analysis with R and Python**
+# **Data Analysis with Python**
 
 This repository contains two projects showcasing data analysis, algorithm implementation and statistical modeling using Python. These projects demonstrate technical proficiency in data visualization, statistical analysis and machine learning.
 
